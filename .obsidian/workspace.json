@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "7e7d39ec6471d59a",
+    "type": "split",
+    "children": [
+      {
+        "id": "56feea8003799fb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efa3d2797b7eb467",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "288b2869560be8ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "34c79f2b626bd090",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a52dc9c3e678c6a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "3c3980557dca2010",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "a5f441eab16d9249",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "right": {
+    "id": "fb2c187cd1bc4ad7",
+    "type": "split",
+    "children": [
+      {
+        "id": "85927c12f726f5d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c655f58d2a7108c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Мониторинг и логирование.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Мониторинг и логирование"
+            }
+          },
+          {
+            "id": "4ede01704d16dc0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Мониторинг и логирование.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Мониторинг и логирование"
+            }
+          },
+          {
+            "id": "3e831ace34b736c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "8d0f6f700890d52d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Мониторинг и логирование.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Мониторинг и логирование"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "efa3d2797b7eb467",
+  "lastOpenFiles": [
+    "Архитектура ПО/Паттерны проектирования микросервисной архитектуры/Паттерны управления данными.md",
+    "Архитектура ПО/Паттерны проектирования микросервисной архитектуры/Паттерны инфраструктуры приложения.md",
+    "Архитектура ПО/Паттерны проектирования микросервисной архитектуры/CQRS.md",
+    "Инструменты/OpenTelemetry.md",
+    "Инструменты/Logstash.md",
+    "Инструменты/Kibana.md",
+    "Инструменты/Jaeger.md",
+    "Инструменты/ELK.md",
+    "Инструменты/Elasticsearch.md",
+    "Инструменты/Grafana.md",
+    "Инструменты/Prometheus.md",
+    "Архитектура ПО/Наблюдаемость/Логирование.md",
+    "Архитектура ПО/Трейсинг/Трейсинг в распределённых системах.md",
+    "Архитектура ПО/Наблюдаемость/ELK.md",
+    "Инструменты",
+    "Архитектура ПО/Трейсинг/Безопасность трейсинга.md",
+    "Архитектура ПО/Наблюдаемость/Введение-Наблюдаемость.md",
+    "Архитектура ПО/Наблюдаемость/Виды мониторинга.md",
+    "Архитектура ПО/Наблюдаемость/Мотивация к внедрению мониторинга.md",
+    "Архитектура ПО/Наблюдаемость/Наблюдаемость.md",
+    "Архитектура ПО/Наблюдаемость/Подходы к мониторингу.md",
+    "Архитектура ПО/Трейсинг/Компромиссы при внедрении трейсинга.md",
+    "Архитектура ПО/Паттерны проектирования микросервисной архитектуры/5-Паттерны развертывания и масштабирования.md",
+    "Архитектура ПО/12 факторное приложение/6-Processes.md",
+    "Архитектура ПО/12 факторное приложение/1-Codebase.md",
+    "Архитектура ПО/Трейсинг/Мотивация к внедрению трейсинга.md",
+    "Архитектура ПО/Трейсинг/Чек лист целесообразности внедрения трейсинга.md",
+    "Без названия.canvas",
+    "Архитектура ПО/Трейсинг",
+    "Архитектура ПО/Наблюдаемость",
+    "Архитектура ПО/Кеширование",
+    "Архитектура ПО/Паттерны проектирования микросервисной архитектуры",
+    "Архитектура ПО/12 факторное приложение",
+    "Архитектура ПО"
+  ]
+}
