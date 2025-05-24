@@ -41,6 +41,20 @@
         "a": 1,
         "rgb": 6084269
       }
+    },
+    {
+      "query": "tag:#mlops  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "tag:#devops  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.09416847341429933,
+  "scale": 0.07884751012910603,
   "close": true
 }
