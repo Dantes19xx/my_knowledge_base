@@ -72,3 +72,5 @@
 - *"Domain-Driven Design Distilled" — Vaughn Vernon*
 - *"Team Topologies" — Matthew Skelton & Manuel Pais*
 - *"Building Microservices" — Sam Newman*
+
+#архитектурный_паттерн

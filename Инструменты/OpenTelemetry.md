@@ -46,3 +46,7 @@ pip install opentelemetry-api \
             opentelemetry-sdk \
             opentelemetry-exporter-jaeger \
             opentelemetry-instrumentation-fastapi
+
+```
+
+#tools

@@ -6,17 +6,53 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#архитектурный_паттерн  ",
+      "color": {
+        "a": 1,
+        "rgb": 15083680
+      }
+    },
+    {
+      "query": "tag:#tools  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#dunder  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "tag:#python  ",
+      "color": {
+        "a": 1,
+        "rgb": 2656752
+      }
+    },
+    {
+      "query": "tag:#cloud  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -2.3,
-  "nodeSizeMultiplier": 0.967708333333333,
-  "lineSizeMultiplier": 1.51842105263158,
+  "nodeSizeMultiplier": 1.73333333333333,
+  "lineSizeMultiplier": 2.14166666666667,
   "collapse-forces": false,
-  "centerStrength": 0.32952182952183,
+  "centerStrength": 0.333333333333333,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.08968848927348268,
-  "close": false
+  "scale": 0.09416847341429933,
+  "close": true
 }

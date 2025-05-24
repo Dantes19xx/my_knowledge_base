@@ -25,7 +25,7 @@ Kibana — это инструмент визуализации и аналит�
 | Бизнес-аналитика            | Построение отчетов по данным из Elasticsearch |
 | DevOps                      | Мониторинг инфраструктуры и метрик |
 
-## Установка и запуск
+## Установка и запуск ([[Docker]])
 ```bash
 # Запуск Kibana через Docker (пример)
 docker run -d \
@@ -34,3 +34,6 @@ docker run -d \
   -p 5601:5601 \
   -e ELASTICSEARCH_HOSTS=http://elasticsearch:9200 \
   docker.elastic.co/kibana/kibana:8.11.1
+```
+
+#tools

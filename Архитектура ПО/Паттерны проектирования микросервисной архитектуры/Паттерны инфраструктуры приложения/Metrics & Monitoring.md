@@ -96,3 +96,5 @@
     
 - Используется **exposition format** (например, Prometheus формат: `metric_name{label="value"} count`)
 
+
+#архитектурный_паттерн

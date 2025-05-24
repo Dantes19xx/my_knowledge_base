@@ -42,7 +42,7 @@
     
 - **Amazon DynamoDB**
     
-- **Consul**
+- **[[Consul]]**
     
 - **Envoy**, **Linkerd**, **Akka Cluster**
 

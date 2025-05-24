@@ -93,3 +93,5 @@
 - *"Implementing Domain-Driven Design" — Vaughn Vernon*
 - *"Event Sourcing" — Martin Fowler (martinfowler.com)*
 - *"Architecture Patterns with Python" — Cosentino & Percival*
+
+#архитектурный_паттерн

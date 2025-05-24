@@ -133,3 +133,6 @@ SUBSCRIBE news            # Подписка на канал
 - 📦 Клиенты: `redis-py`, `ioredis`, `Jedis`, `go-redis`, и др.
     
 - 🔧 GUI: `RedisInsight`, `Medis`, `RDM`
+
+
+#tools

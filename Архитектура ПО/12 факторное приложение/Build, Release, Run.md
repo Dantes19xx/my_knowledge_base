@@ -14,7 +14,7 @@
 |Build|Сборка проекта, установка зависимостей|`pip install -r requirements.txt`|
 |Release|Комбинирование сборки с переменными окружения|`export DATABASE_URL=... && tag v1.0-release`|
 |Run|Запуск приложения в нужной среде|`python app.py`, `gunicorn app:app`, `docker run app:latest`|
-#### 💡 Пример с Docker:
+#### 💡 Пример с [[Docker]]:
 
 - **Build**: `docker build -t myapp .`
     

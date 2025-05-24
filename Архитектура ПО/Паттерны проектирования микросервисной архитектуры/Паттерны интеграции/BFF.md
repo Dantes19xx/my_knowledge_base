@@ -75,3 +75,6 @@
 - **API Gateway**: BFF живёт за ним и получает защищённые запросы.
 - **GraphQL**: BFF может реализовать GraphQL endpoint, агрегируя REST-сервисы.
 - **Server-Side Rendering (SSR)**: в React (Next.js) или Vue (Nuxt) можно совмещать BFF и рендер.
+
+
+#архитектурный_паттерн

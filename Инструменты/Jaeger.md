@@ -38,7 +38,7 @@
 
 ---
 
-## Быстрый старт (Docker)
+## Быстрый старт ([[Docker]])
 
 ```bash
 docker run -d --name jaeger \
@@ -49,3 +49,6 @@ docker run -d --name jaeger \
   -p 14250:14250 \
   -p 9411:9411 \
   jaegertracing/all-in-one:latest
+```
+
+#tools
