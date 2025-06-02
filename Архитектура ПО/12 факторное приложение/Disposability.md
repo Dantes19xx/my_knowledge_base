@@ -30,3 +30,6 @@ def graceful_exit(signum, frame):
     sys.exit(0)
 
 signal.signal(signal.SIGTERM, graceful_exit)
+```
+
+#проектирование 

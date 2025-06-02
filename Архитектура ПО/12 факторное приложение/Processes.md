@@ -42,3 +42,5 @@ def login(user: str, redis: Redis = Depends(get_redis)):
     return {"status": "ok"}
 ```
 
+
+#проектирование

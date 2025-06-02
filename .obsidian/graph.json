@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#архитектурный_паттерн  ",
@@ -55,6 +55,48 @@
         "a": 1,
         "rgb": 6053078
       }
+    },
+    {
+      "query": "tag:#алгоритмы  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "tag:#observability  ",
+      "color": {
+        "a": 1,
+        "rgb": 15306795
+      }
+    },
+    {
+      "query": "tag:#scaling  ",
+      "color": {
+        "a": 1,
+        "rgb": 6529437
+      }
+    },
+    {
+      "query": "tag:#балансировка_нагрузки  ",
+      "color": {
+        "a": 1,
+        "rgb": 8545772
+      }
+    },
+    {
+      "query": "tag:#antipattern  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "tag:#проектирование  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +109,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.0851924548346864,
+  "scale": 0.08502570739558481,
   "close": true
 }

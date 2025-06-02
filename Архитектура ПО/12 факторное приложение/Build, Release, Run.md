@@ -21,3 +21,5 @@
 - **Release**: `docker tag myapp:latest myregistry/myapp:v1.0`
     
 - **Run**: `docker run -e DATABASE_URL=... myapp:v1.0`
+
+#проектирование

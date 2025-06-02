@@ -24,3 +24,6 @@
 def create_user():
     username = input("Enter username: ")
     # Логика создания пользователя
+```
+
+#проектирование

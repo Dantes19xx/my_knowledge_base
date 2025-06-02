@@ -8,3 +8,4 @@
 |AWS S3|`S3_BUCKET_URL`|`https://s3.amazonaws.com/my-bucket`|
 |SMTP Server|`SMTP_HOST`|`smtp.mailtrap.io`|
 
+#проектирование 

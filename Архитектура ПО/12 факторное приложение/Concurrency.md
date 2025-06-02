@@ -21,3 +21,6 @@
 **Gunicorn (Python WSGI):**
 ```bash
 gunicorn app:app --workers=4
+```
+
+#проектирование 
