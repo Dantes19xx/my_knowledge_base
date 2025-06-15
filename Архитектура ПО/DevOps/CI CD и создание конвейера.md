@@ -144,9 +144,9 @@ Plan → Code → Build → Test → Release → Deploy
     
 - **Мониторинг и алерты**: [[Prometheus]], [[Grafana]], Alertmanager
     
-- **Управление конфигурациями**: Ansible, Terraform, Helm
+- **Управление конфигурациями**: Ansible, [[Terraform]], Helm
     
-- **Контейнеризация и оркестрация**: [[Docker]], Kubernetes
+- **Контейнеризация и оркестрация**: [[Docker]], [[Kubernetes]]
     
 
 ---

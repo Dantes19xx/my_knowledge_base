@@ -26,7 +26,7 @@ Consul — это решение HashiCorp для **сетевого взаим�
 
 1. **Самостоятельно on-prem/VMs** — бинарник или [[Docker]]-контейнеры; выделите нечётное число серверов (3/5).
     
-2. **Kubernetes** — Helm-chart `hashicorp/consul` или Consul-K8s оператор: CRD для ServiceMesh + auto-inject sidecar.
+2. **[[Kubernetes]]** — Helm-chart `hashicorp/consul` или Consul-K8s оператор: CRD для [[Service Mesh]] + auto-inject sidecar.
     
 3. **HCP (Managed)** — SaaS-кластер + consul-tunnel/gateway для on-prem; однако _Dedicated_ кластеры будут закрыты 12 ноября 2025 г., требуется миграция на self-managed Enterprise. [HashiCorp Developer](https://developer.hashicorp.com/consul/docs/fundamentals/editions?utm_source=chatgpt.com)
     

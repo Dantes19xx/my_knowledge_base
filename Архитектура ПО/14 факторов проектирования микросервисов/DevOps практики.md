@@ -33,7 +33,7 @@ DevOps — это культурный и технический подход, �
 - Хранение инфраструктуры в коде (Git)
 - Быстрое и воспроизводимое развёртывание окружений
 
-**Инструменты:** Terraform, Pulumi, Ansible, Helm (для Kubernetes)
+**Инструменты:** Terraform, Pulumi, Ansible, Helm (для [[Kubernetes]])
 
 ---
 
