@@ -1,3 +1,6 @@
+#oop #dunder #python 
+
+
 # Метод `__enter__` в Python
 
 ## 📘 Что это?

@@ -1,3 +1,6 @@
+
+#oop #dunder #python 
+
 # Метод `__exit__` в Python
 
 ## 📘 Что это?
