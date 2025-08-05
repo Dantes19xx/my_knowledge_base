@@ -1,4 +1,6 @@
 
+#oop #dunder #python 
+
 ### 1. [[Жизненный цикл объектов]]
 
 - `__init__`
@@ -46,5 +48,14 @@
 
 - `__call__`
 
-#oop #dunder #python 
 
+### 8. [[Интроспекция функций]]
+
+
+- `__defaults__`
+- `__kwdefaults__`
+- `__code__`
+- `__name__`
+- `__annotations__`
+- `__doc__`
+- `__globals__`
