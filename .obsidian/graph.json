@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#архитектурный_паттерн  ",
@@ -26,6 +26,13 @@
       "color": {
         "a": 1,
         "rgb": 6084188
+      }
+    },
+    {
+      "query": "tag:#flask  ",
+      "color": {
+        "a": 1,
+        "rgb": 10992396
       }
     },
     {
@@ -120,17 +127,31 @@
       }
     },
     {
-      "query": "tag:#data_engineering  ",
+      "query": "tag:#архитектурные_диаграммы  ",
       "color": {
         "a": 1,
-        "rgb": 5519294
+        "rgb": 658165
       }
     },
     {
       "query": "tag:#solid  ",
       "color": {
         "a": 1,
-        "rgb": 5395121
+        "rgb": 8237651
+      }
+    },
+    {
+      "query": "tag:#jinja2  ",
+      "color": {
+        "a": 1,
+        "rgb": 7540440
+      }
+    },
+    {
+      "query": "tag:#data_engineering  ",
+      "color": {
+        "a": 1,
+        "rgb": 2132396
       }
     }
   ],
@@ -138,12 +159,12 @@
   "showArrow": true,
   "textFadeMultiplier": -2.3,
   "nodeSizeMultiplier": 1.73333333333333,
-  "lineSizeMultiplier": 0.763541666666667,
+  "lineSizeMultiplier": 0.873684210526316,
   "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.200225830078125,
-  "close": true
+  "scale": 0.017578125,
+  "close": false
 }

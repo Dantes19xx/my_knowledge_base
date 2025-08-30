@@ -6,9 +6,9 @@
 | ----- | ---------------------------------------------------------------------------- | ------------------------------------ |
 | **S** | **[[S — Single Responsibility Principle\|Single Responsibility Principle]]** | Принцип единственной ответственности |
 | **O** | **[[O — Open Closed Principle\|Open/Closed Principle]]**                     | Принцип открытости/закрытости        |
-| **L** | **Liskov Substitution Principle**                                            | Принцип подстановки Барбары Лисков   |
-| **I** | **Interface Segregation Principle**                                          | Принцип разделения интерфейса        |
-| **D** | **Dependency Inversion Principle**                                           | Принцип инверсии зависимостей        |
+| **L** | **[[L — Liskov Substitution Principle\|Liskov Substitution Principle]]**     | Принцип подстановки Барбары Лисков   |
+| **I** | **[[I — Interface Segregation Principle\|Interface Segregation Principle]]** | Принцип разделения интерфейса        |
+| **D** | **[[D — Dependency Inversion Principle\|Dependency Inversion Principle]]**   | Принцип инверсии зависимостей        |
 
 
 ---
