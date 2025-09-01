@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"688f656463538f70","x":-321,"y":-128,"width":250,"height":60,"type":"text","text":""},
+		{"id":"c615e522340920ca","x":-228,"y":97,"width":388,"height":50,"type":"file","file":"Версионирование API.md"}
+	],
+	"edges":[]
+}

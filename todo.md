@@ -25,4 +25,3 @@
 
 https://www.youtube.com/watch?v=7oIXcJo56rE 8:40
 
-# Методы защиты данных

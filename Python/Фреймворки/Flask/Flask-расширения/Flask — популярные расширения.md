@@ -4,7 +4,7 @@
 
 - **[[Flask-SQLAlchemy]]** — упрощённая интеграция SQLAlchemy (ORM).
     
-- **Flask-Migrate** — миграции БД на базе Alembic.
+- **[[Flask-Migrate]]** — миграции БД на базе Alembic.
     
 - **Flask-MongoEngine** — работа с MongoDB через MongoEngine.
     
